@@ -1,0 +1,24 @@
+.navbar{
+    background-color: #3A497B;
+    width: 70%;
+    border-radius:100vh ;
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    text-transform: uppercase;
+   
+}
+
+.navbar-nav .nav-link.active, .nav-link:hover{
+    color:#0099CC ;
+}
+section{
+    background-image: url(../assests/wraper.png);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 38vh;
+}
+body{
+    background-color: #272B30;  
+}
