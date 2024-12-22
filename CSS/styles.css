@@ -22,3 +22,23 @@ section#nav{
 body{
     background-color: #272B30;  
 }
+
+.card-footer small{
+    border:1px solid transparent;
+    border-radius: 3px;
+    background-color: #32383E;
+    color: white;
+
+}
+.card{
+    background-color: #272B30;
+    color: white;
+    transition: all ease 0.5s;
+}
+.card-text{
+    color: #8D9092;
+}
+
+.card:hover{
+    transform: scale(1.125);
+}
