@@ -12,7 +12,7 @@
 .navbar-nav .nav-link.active, .nav-link:hover{
     color:#0099CC ;
 }
-section{
+section#nav{
     background-image: url(../assests/wraper.png);
     background-position: center;
     background-attachment: fixed;
