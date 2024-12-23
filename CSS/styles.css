@@ -42,3 +42,39 @@ body{
 .card:hover{
     transform: scale(1.125);
 }
+a{
+    text-decoration: none;
+    color: white;
+}
+
+#closeDetails{
+    padding: 15px;
+    background-color: transparent;
+    color:#C8C9CA ;
+    border: none;
+    
+}
+
+#showGameBtn{
+    padding: 15px;
+    border: 1px solid #FFC107;
+    border-radius: 5px;
+    color: white;
+    transition: all ease 1s ;
+}
+
+#showGameBtn:hover{
+    background-color: #FFC107;
+}
+p{
+    line-height: 35px;
+}
+
+p span{
+    color: black;
+    border: 1px solid transparent;
+    background-color: #0099CC;
+    border-radius: 5px;
+    padding: 4px;
+    display: inline-block;
+}
